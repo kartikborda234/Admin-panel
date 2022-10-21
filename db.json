@@ -1,0 +1,82 @@
+{
+  "user": [
+    {
+      "fname": "",
+      "lname": "",
+      "email": "kartikborda@gmail.com",
+      "password": "sddcsdcsdc",
+      "file": "",
+      "gender": "",
+      "language": [],
+      "id": 1,
+      "confirmPass": null,
+      "cpassword": "sddcsdcsdc",
+      "showPassword": true,
+      "showConfirmPassword": true,
+      "showConfirmPasswordPassword": true
+    },
+    {
+      "fname": "kartik",
+      "lname": "patel",
+      "email": "kartikborda@gmail.com",
+      "password": "111",
+      "file": "",
+      "gender": "male",
+      "language": [
+        "gujarati"
+      ],
+      "id": 2
+    },
+    {
+      "fname": "john",
+      "lname": "doe",
+      "email": "john@gmail.com",
+      "password": "1111",
+      "file": "",
+      "gender": "male",
+      "language": [
+        "hindi"
+      ],
+      "id": 3,
+      "cpassword": "1111",
+      "showPassword": false,
+      "showConfirmPassword": false,
+      "showConfirmPasswordPassword": true
+    },
+    {
+      "fname": "bhimo",
+      "lname": "patel",
+      "email": "bhimo@gmail.com",
+      "password": "2121",
+      "file": "",
+      "gender": "male",
+      "language": [
+        "gujarati"
+      ],
+      "id": 4
+    }
+  ],
+  "blogs": [
+    {
+      "title": "wdxwed",
+      "description": "dweddweewd",
+      "userid": 21,
+      "author": "kartikpatel",
+      "id": 12
+    },
+    {
+      "title": "wDEDE",
+      "description": "WEDE",
+      "userid": 22,
+      "author": "jilan",
+      "id": 13
+    },
+    {
+      "title": "web",
+      "description": "develop",
+      "userid": 2,
+      "author": "kartik",
+      "id": 14
+    }
+  ]
+}
